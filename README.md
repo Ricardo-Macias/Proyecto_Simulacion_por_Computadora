@@ -11,17 +11,19 @@ Este proyecto es un software de simulación inmersiva que recrea tridimensionalm
 
 ## Objetivo
 * **Aplicación de técnicas de simulación:** Diseñar y desplegar un entorno 3D interactivo que replique condiciones reales del campus para análisis de espacio.
+* * **Impacto comunitario:** Crear una herramienta digital que visualice propuestas de mejora urbana viables para el centro universitario.
 ---
 
 ## Características clave
-* **Inmersión móvil completa:** Soporte e integración nativa con el SDK de **OpenVR** para visualización estereoscópica estable.
-* **Ciclo de juego completo:** Arquitectura de software modular que incluye `Pantalla de Inicio` con entorno principal de simulación.
+* **Ciclo de juego completo:** Arquitectura de software modular que incluye Pantalla de Inicio con entorno principal de simulación y una Pantalla de Finalización que cierra el ciclo de ejecución.
+* * **Sistema de puntuación:** Mecánica integrada que recompensa al jugador.
 * **Audiovisual:** Implementación de sistemas de partículas ligeros para dar retroalimentación visual al jugador y un audio optimizado para música de fondo libre de derechos de autor.
 
 ---
 
 ## Mecánicas de juego integradas
-* **Sistema de Exploración Interactiva:** El usuario navega libremente por el campus utilizando controles adaptados para Android.
+* **Sistema de exploración interactiva:** El usuario navega libremente por el campus utilizando controles adaptados para Android.
+* * **Mecánica de puntuación:** Un controlador global procesa los eventos e interacciones del usuario, asignando puntos de manera dinámica.
 
 ---
 
