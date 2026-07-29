@@ -1,6 +1,6 @@
 # CUCEI VR: Simulador de exploración y mejora urbana
 
-> **Proyecto de Portafolio:** Simulación interactiva en 3D para dispositivos móviles Android. Desarrollado en Godot Engine utilizando OpenVR, enfocado en optimización de rendimiento móvil y arquitectura de gameplay aplicada a la planeación del campus universitario.
+> **Proyecto de Portafolio:** Simulación interactiva en 3D para dispositivos móviles Android. Desarrollado en Godot Engine utilizando OpenVR, enfocado en optimización de rendimiento móvil y arquitectura aplicada a la planeación del campus universitario.
 
 ---
 
